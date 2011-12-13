@@ -24,9 +24,9 @@ public class Manejador {
 		dataSource="//localhost/web"; 
 		bdName="jdbc:mysql:" + dataSource;
 		bdDriver="com.mysql.jdbc.Driver";
-		user="root";
-		pass="soft"; 
-		encryp = "software3837";
+		user="";
+		pass=""; 
+		encryp = "";
 	}
 	
 	/**
